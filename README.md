@@ -42,4 +42,4 @@ You can customize:
 ## Example
 
 ```bash
-python3 json_cli_filter.py results.json
+python3 jcf.py results.json
