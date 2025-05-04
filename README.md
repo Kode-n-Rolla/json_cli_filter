@@ -28,7 +28,9 @@ Filters are **preserved across iterations**, so you can refine your search as yo
 You can customize:
 - The number of entries shown per page
 - The fields that are available for filtering
-
+---
+## Example of running
+![Screenshot-of-work](https://github.com/Kode-n-Rolla/json_cli_filter/blob/main/jcf.png)
 ---
 
 ## Filter Syntax
@@ -39,7 +41,10 @@ You can customize:
 
 ---
 
-## Example
-
+## Install requirements
+```bash
+pip install -r requirements.txt
+```
+## Usage
 ```bash
 python3 jcf.py results.json
