@@ -1,5 +1,12 @@
 ## About
 
+![Go](https://img.shields.io/badge/Go-CLI-blue)
+![Tool](https://img.shields.io/badge/Type-Utility-lightgrey)
+![JSON](https://img.shields.io/badge/Data-JSON-yellow)
+![Status](https://img.shields.io/badge/Status-Stable-success)
+![Lightweight](https://img.shields.io/badge/Performance-Lightweight-pink)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 This tool was originally developed to filter and analyze the results of [ffuf](https://github.com/ffuf/ffuf), but it can work with **any JSON file** that contains an array of objects.
 
 It provides a simple and interactive **CLI interface**, allowing you to explore, narrow down, and investigate anomalies in your data using keyboard navigation and filter conditions.
