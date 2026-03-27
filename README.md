@@ -5,7 +5,7 @@
 ![JSON](https://img.shields.io/badge/Data-JSON-yellow)
 ![Status](https://img.shields.io/badge/Status-Stable-success)
 ![Lightweight](https://img.shields.io/badge/Performance-Lightweight-pink)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-GNU-green)
 
 This tool was originally developed to filter and analyze the results of [ffuf](https://github.com/ffuf/ffuf), but it can work with **any JSON file** that contains an array of objects.
 
